@@ -502,8 +502,8 @@ height: 477px;
 .icon_insta {position: absolute;
  left: 0px;
  padding-top: 140px;
-width: 40%;
 
+padding: 30px;
    
 }
     
@@ -511,14 +511,14 @@ width: 40%;
  .icon_youtube   {position: absolute;
  left: 0px;
  padding-top: 160px;
-     width: 40%;
+     padding: 30px;
    
 }
     
 .icon_linkedin    {position: absolute;
  left: 0px;
- width: 40%;
- padding-top: 140px  
+ width: 80%;
+padding: 30px; 
    
 }  
     
