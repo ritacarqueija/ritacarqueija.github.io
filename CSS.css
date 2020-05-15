@@ -1,0 +1,533 @@
+
+.botao_menu {
+    height: 530px;
+    text-align: center;
+}
+
+.opcao_1 {
+    background-color: #DEDACF;
+}
+
+.opcao_2 {
+    background-color: #232323;
+}
+
+.opcao_3 {
+     background-color: #DEDACF;
+}
+
+
+.grid-container {
+   max-width: 100%;  /* para ocupar ecrã inteiro */
+ max-height: 100%;
+    padding: 0px;
+background-color: #232323; 
+}
+
+
+.titulo {
+    padding-top: 100px;
+    height: 370px;
+    text-align: center;
+    background-color: #EEEEEE;
+
+}
+
+
+.sobre_mim {
+    width: 40%;
+    height: 30%;
+margin-top: 170px;
+}
+
+
+.trabalhos {
+    width: 40%;
+    height: 30%;
+margin-top: 170px;
+}
+
+.contactos {
+    width: 40%;
+    height: 30%;
+margin-top: 170px;
+}
+
+
+.profile_photo {
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+    height: 100%;}
+
+
+.logotipo {width: 85%;
+height: 74%}
+
+
+.opcao_1:hover {background-color: #E24848;}
+.opcao_2:hover {background-color: #E24848;}
+.opcao_3:hover {background-color: #E24848;}
+
+
+
+.retangulo_preto {
+height: 470px;
+    padding: 0px;
+background-color: #232323;}
+
+.artigos {
+height: 515px;
+padding: 0px;
+}
+
+.formacao {background-color: #DEDACF;}
+.competencias {background-color: #E24848;}
+.experiencia {background-color: #EEEEEE;}
+
+
+
+.titulo_SM {font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 47px;
+line-height: 43px;
+color:#E24848;
+position: relative;
+top: 60px;
+text-align: center;
+margin: 40px;
+}
+
+
+.texto_SM {
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: flex-end;
+color: #EEEEEE;
+padding: 30px;
+padding-top: 50px;
+margin: 50px;
+text-align:left;
+
+}
+    
+.Tformacao {font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 29px;
+text-align: center;
+margin-top: 130px;
+color: #E24848;}
+
+
+.Tcompetencias {font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 29px;
+text-align: center;
+margin-top: 130px;
+color: #DEDACF;}
+
+.Texperiencia {font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+text-align: center;
+margin-top: 110px;
+color: #232323;
+line-height: 29px;}
+
+.texto_F {font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+color: #E24848;
+padding: 29px;
+padding-top: 30px;
+}
+
+
+.photo {
+    height: 470px;
+    background-image: url("profile.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.texto_C {font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+padding: 29px;
+color: #EEEEEE;
+padding-top: 30px;
+padding-bottom: 0px;
+}
+
+
+.texto_E {font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+display: flex;
+text-align: center;
+padding: 29px;
+padding-top: 20px;
+color: #232323;}
+
+
+
+.mini_menu2SM, .mini_menu1SM, .mini_menu3SM {
+position: relative;
+width: 100%;
+height: 50%;
+margin-top: 20px;
+margin-bottom: 55px;
+top: 15px;
+}
+
+
+.mini_menu2T, .mini_menu1T, .mini_menu3T {
+position: relative;
+width: 100%;
+height: 33%;
+margin-bottom: 55px;
+}
+
+.mini_menu2C, .mini_menu3C , .mini_menu1C  {
+position: relative;
+width: 100%;
+height: 50%;
+bottom: 20px;    
+}
+
+
+
+.mini_menu2SM {background-color: #E24848; }
+
+.mini_menu2T:hover {background-color: #E24848; }
+
+.mini_menu2C:hover {background-color: #E24848; }
+
+
+.mini_menu1SM:hover {background-color: #EEEEEE; }
+
+.mini_menu1T {background-color: #EEEEEE; }
+
+.mini_menu1C:hover {background-color: #EEEEEE; }
+
+
+.mini_menu3SM:hover {background-color: #E24848; }
+
+.mini_menu3T:hover {background-color: #E24848; }
+
+.mini_menu3C {background-color: #E24848; }
+
+
+
+
+.sobre_mimSM {width: 80%;
+margin-left: 10px;}
+
+.trabalhosSM {width: 80%;
+margin-left: 10px;}
+
+
+.contactosSM {width: 80%;
+margin-left: 10px;}
+
+.formacao:hover {background-color: #EEEEEE;}
+.competencias:hover {background-color: #232323;}
+.experiencia:hover {background-color: #DEDACF;}
+
+
+.retangulo_vermelho {
+height: 470px;
+padding: 0px;
+background-color: #E24848;}
+
+.grid-container2 {
+max-width: 100%;  
+max-height: 100%;
+    background-color: #E24848; 
+
+}
+
+.mini_menu1 { position: absolute;
+    right: 30px;
+    width: 110px;
+   
+}
+
+
+
+
+.trabalhos_titulo {width: 81%;
+padding-top: 190px;
+padding-left: 65px;}
+
+
+
+.comunicacao {background-color: #E24848;
+ height: 490px;
+padding: 0px;
+}
+
+.work_photo12 {background-color:#EEEEEE;
+ height: 490px;
+padding: 0px;}
+
+.work_photo_text1 {
+ height: 490px;
+padding: 0px;}
+
+.produto {background-color:#DEDACF;
+ height: 490px;
+padding: 0px;
+}
+
+.work_photo22 {background-color: #232323;
+ height: 490px;
+padding: 0px;
+}
+
+.work_photo_text2 {
+ height: 490px;
+padding: 0px;}
+
+.rebranding {background-color:#232323;
+ height: 490px;
+padding: 0px;}
+
+.work_photo32 {background-color: #DEDACF;
+ height: 490px;
+padding: 0px;
+position: }
+
+.work_photo_text3 {
+ height: 490px;
+padding: 0px;}
+
+.design_comunicacao {font-family: 'Montserrat', sans-serif;
+font-size: 21px;
+text-align: center;
+color: #DEDACF;
+padding-top: 190px; 
+line-height: 2}
+
+
+.design_produto {font-family: 'Montserrat', sans-serif;
+font-size: 21px;
+text-align: center;
+color: #232323;
+padding-top: 190px; 
+line-height: 2}
+
+
+.branding { font-family: 'Montserrat', sans-serif;
+font-size: 21px;
+text-align: center;
+color: #DEDACF;
+padding-top: 225px; 
+line-height: 2}
+
+
+.texto_comunicacao {font-family: 'Montserrat', sans-serif;
+font-size: 16px;
+text-align: center;
+    padding: 10px;
+padding-top: 15px;}
+
+.wau {font-family: 'Montserrat', sans-serif;
+font-size: 32px;
+text-align: center;
+padding: 10px;
+padding-top: 130px}
+
+.work_photo_text1  {
+    height: 490px;
+    background-image: url("Captura%20de%20ecr%C3%A3%202020-05-12,%20%C3%A0s%2016.54.52.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.work_photo_text2 {
+    height: 490px;
+    background-image: url("astrid.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.work_photo_text3 {height: 490px;
+    background-image: url("Mockup%202%20-%20c%C3%B3pia.png");
+    background-size: cover;
+    background-position: center;}
+
+
+.astrid {font-family: 'Montserrat', sans-serif;
+font-size: 32px;
+text-align: center;
+padding: 10px;
+padding-top: 100px;
+color: #DEDACF}
+
+.texto_produto {font-family: 'Montserrat', sans-serif;
+font-size: 16px;
+text-align: center;
+    padding: 10px;
+padding-top: 0px;
+color: #DEDACF}
+
+.cartao_de_visita {font-family: 'Montserrat', sans-serif;
+font-size: 31px;
+text-align: center;
+padding: 8px;
+padding-top: 150px;
+color: #232323}
+
+.texto_cartao {font-family: 'Montserrat', sans-serif;
+font-size: 16px;
+text-align: center;
+    padding: 10px;
+padding-top: 0px;
+color: #232323}
+
+.produto:hover {background-color: #EEEEEE;}
+.comunicacao:hover{background-color: #232323;}
+.rebranding:hover {background-color: #E24848;}
+
+
+
+
+.retangulo_beje {
+height: 470px;
+padding: 0px;
+background-color: #DEDACF;}
+
+
+.mini_menu3 { position: absolute;
+    right: 30px;
+    width: 110px;
+}
+
+
+
+.caixa_numero {background-color: #232323;
+height: 480px;
+}
+
+
+.caixa_email {background-color: #E24848;
+height: 480px;
+     position: relative;
+}
+
+
+.caixa_numero:hover {background-color: #E24848 }
+
+.caixa_email:hover {background-color: #232323
+}
+
+
+
+
+.numero_real {color: #DEDACF;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+font-size: 23px;
+position: relative;
+top: 213px
+}
+
+.email_real {color:  #EEEEEE
+    ;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+font-size: 17px;
+position: relative;
+top: 220px;}
+
+
+.insta_real {color:  #E24848;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+font-size: 19px;
+position: relative;
+top: 216px;}
+
+
+
+
+
+.mini_menu2 {
+   position: absolute;
+    right: 30px;
+    width: 110px;
+}
+
+
+.INSTA {background-color:#E24848;
+height: 477px;
+    padding: 0px;
+    position: relative;
+   
+}
+
+.YOUTUBE {background-color:#EEEEEE;
+height: 477px;
+    padding: 0px;
+ position: relative;}
+
+.LINKEDIN {background-color: #232323;
+height: 477px;
+    padding: 0px;
+ position: relative;}
+
+.icon_insta {position: absolute;
+ 
+ padding-top: 140px;
+
+
+   
+}
+    
+    
+ .icon_youtube   {position: absolute;
+
+ padding-top: 160px  
+   
+}
+    
+.icon_linkedin    {position: absolute;
+ 
+ padding-top: 140px  
+   
+}  
+    
+.INSTA:hover {background-color:#232323;  
+}
+
+.YOUTUBE:hover  {background-color:#DEDACF;}
+
+.LINKEDIN:hover {background-color: #E24848;
+}
+    
+    
+    
